@@ -1,7 +1,3 @@
-## What's the Catch?
+## Single Header Version Of Catch 2
 
-Catch2 stands for C++ Automated Test Cases in a Header and is a
-multi-paradigm test framework for C++. which also supports Objective-C
-(and maybe C).
-It is primarily distributed as a single header file, although certain
-extensions may require additional headers.
+(NOTE: This is not my original work, it is simply a submodule to track/hold the single header usage of catch 2 for inclusion in other projects, the original project can be found here: https://github.com/catchorg/Catch2)
